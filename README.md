@@ -56,7 +56,7 @@ The data consists of `dreddit-train.csv` and `dreddit-test.csv`. You can use tho
 
 - The number of text data differed a lot by category.
 - We removed the four categories with the smallest number of data and trained the model again. Nevertheless, no significant results were obtained.
-  <img src="https://velog.velcdn.com/images/corinthionia/post/e51f3e08-55da-421b-9be3-24b8238b1bd2/image.png" width="500" height="500"/>
+- <img src="https://velog.velcdn.com/images/corinthionia/post/e51f3e08-55da-421b-9be3-24b8238b1bd2/image.png" width="500" height="500"/>
 
 ### Incorrectly labeled
 
@@ -65,4 +65,4 @@ The data consists of `dreddit-train.csv` and `dreddit-test.csv`. You can use tho
 ### The limitations of word-appearance-based vectorization
 
 - As you can see in the word cloud, the words in types are very similar. Therefore, it is difficult to produce accurate results through vectorization based on the number of word appearance.
-  <img src="https://velog.velcdn.com/images/corinthionia/post/4951aef6-65d3-47dd-803f-8e92a2fd2de8/image.png" width="500" height="500"/>
+- <img src="https://velog.velcdn.com/images/corinthionia/post/4951aef6-65d3-47dd-803f-8e92a2fd2de8/image.png" width="500" height="500"/>
