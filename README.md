@@ -6,10 +6,14 @@
 
 The data consists of `dreddit-train.csv` and `dreddit-test.csv`. You can use those data by unzipping the `data.zip` or downloading in kaggle.
 
+<br/>
+
 # Accuracy
 
 - Multinomial Naive Bayes: 0.5699614890885751
 - Logistic regression: 0.5298087739032621
+
+<br/>
 
 # Find out the most correlated unigrams & bigrams
 
@@ -47,6 +51,8 @@ The data consists of `dreddit-train.csv` and `dreddit-test.csv`. You can use tho
 
 - Most Correlated Unigrams are: sexual, abuse
 - Most Correlated Bigrams are: know think, sexual abuse
+
+<br/>
 
 # Analysis on the poor result
 
