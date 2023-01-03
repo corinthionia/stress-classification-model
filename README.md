@@ -4,7 +4,7 @@
 
 [Stress Analysis in Social Media](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media/code) in Kaggle
 
-The data consists of `dreddit-train.csv` and `dreddit-test.csv`. You can use those data by unzipping the `data.zip` or downloading in kaggle.
+The data consist of `dreddit-train.csv` and `dreddit-test.csv`. You can use those data by unzipping the `data.zip` or downloading in kaggle.
 
 <br/>
 
